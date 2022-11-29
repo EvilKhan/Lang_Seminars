@@ -1,0 +1,15 @@
+D:\MyWork\Practice\GR3612\lang_seminars\task4\bin\Debug\net7.0\task4.exe
+D:\MyWork\Practice\GR3612\lang_seminars\task4\bin\Debug\net7.0\task4.deps.json
+D:\MyWork\Practice\GR3612\lang_seminars\task4\bin\Debug\net7.0\task4.runtimeconfig.json
+D:\MyWork\Practice\GR3612\lang_seminars\task4\bin\Debug\net7.0\task4.dll
+D:\MyWork\Practice\GR3612\lang_seminars\task4\bin\Debug\net7.0\task4.pdb
+D:\MyWork\Practice\GR3612\lang_seminars\task4\obj\Debug\net7.0\task4.csproj.AssemblyReference.cache
+D:\MyWork\Practice\GR3612\lang_seminars\task4\obj\Debug\net7.0\task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\Practice\GR3612\lang_seminars\task4\obj\Debug\net7.0\task4.AssemblyInfoInputs.cache
+D:\MyWork\Practice\GR3612\lang_seminars\task4\obj\Debug\net7.0\task4.AssemblyInfo.cs
+D:\MyWork\Practice\GR3612\lang_seminars\task4\obj\Debug\net7.0\task4.csproj.CoreCompileInputs.cache
+D:\MyWork\Practice\GR3612\lang_seminars\task4\obj\Debug\net7.0\task4.dll
+D:\MyWork\Practice\GR3612\lang_seminars\task4\obj\Debug\net7.0\refint\task4.dll
+D:\MyWork\Practice\GR3612\lang_seminars\task4\obj\Debug\net7.0\task4.pdb
+D:\MyWork\Practice\GR3612\lang_seminars\task4\obj\Debug\net7.0\task4.genruntimeconfig.cache
+D:\MyWork\Practice\GR3612\lang_seminars\task4\obj\Debug\net7.0\ref\task4.dll
