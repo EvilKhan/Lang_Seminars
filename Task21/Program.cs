@@ -17,4 +17,4 @@ double y2 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Введите координату второй точки z: ");
 double z2 = Convert.ToDouble(Console.ReadLine());
 double result = Math.Sqrt(Math.Pow((x1-x2), 2) + Math.Pow((y1-y2), 2) + Math.Pow((z1-z2), 2)); //sqrt - корень, Pow - степень
-Console.WriteLine($"Длина отрезка {Math.Round(result, 2)}");  //Round - округление
+Console.WriteLine($"Длина отрезка {Math.Round(result, 2)}");  //Round - округление.
