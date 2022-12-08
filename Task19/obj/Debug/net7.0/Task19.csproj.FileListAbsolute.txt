@@ -1,0 +1,15 @@
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task19\bin\Debug\net7.0\Task19.exe
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task19\bin\Debug\net7.0\Task19.deps.json
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task19\bin\Debug\net7.0\Task19.runtimeconfig.json
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task19\bin\Debug\net7.0\Task19.dll
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task19\bin\Debug\net7.0\Task19.pdb
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task19\obj\Debug\net7.0\Task19.csproj.AssemblyReference.cache
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task19\obj\Debug\net7.0\Task19.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task19\obj\Debug\net7.0\Task19.AssemblyInfoInputs.cache
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task19\obj\Debug\net7.0\Task19.AssemblyInfo.cs
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task19\obj\Debug\net7.0\Task19.csproj.CoreCompileInputs.cache
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task19\obj\Debug\net7.0\Task19.dll
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task19\obj\Debug\net7.0\refint\Task19.dll
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task19\obj\Debug\net7.0\Task19.pdb
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task19\obj\Debug\net7.0\Task19.genruntimeconfig.cache
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task19\obj\Debug\net7.0\ref\Task19.dll
