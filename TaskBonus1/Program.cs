@@ -15,5 +15,4 @@ while (x != 0)
       else if (x > max2)
         max2 = x;
   }
-
   Console.WriteLine($"The END, second maximum = {max2}");
