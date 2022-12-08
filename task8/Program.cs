@@ -7,7 +7,7 @@ Console.Write("Введите число: ");
 int n = int.Parse(Console.ReadLine());
 int i = 2;
 /*while (i <= n)
-{    Console.Write($"{i} ");     //оба варианта работают, этот самый очевидный
+{    Console.Write($"{i} ");     //оба варианта работают, а этот самый очевидный
      i = i + 2;
 }*/
 while(i <= n)
