@@ -19,7 +19,7 @@ if (n > 2 && n <= 1000){
     int [] ai = new int[n + 2];
     for (int i = 0; i < n; i++)
     {
-      ai[i] = new Random().Next(10);
+      ai[i] = new Random().Next(1000);
       Console.Write($"{ai[i]}, ");
       ai[n] = ai[0];
       ai[n+1] = ai[1];
