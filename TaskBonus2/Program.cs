@@ -16,14 +16,17 @@ Console.Clear();
 Console.Write("Введите количество кустов черники, не менее 3 и не более 1000: ");
 int n = Convert.ToInt32(Console.ReadLine());
 if (n > 2 && n <= 1000){
-    int [] ai = new int[n];
-    for (int i = 0; i < n; i++){
-      ai[i] = new Random().Next(1000);
+    int [] ai = new int[n + 2];
+    for (int i = 0; i < n; i++)
+    {
+      ai[i] = new Random().Next(10);
       Console.Write($"{ai[i]}, ");
+      ai[n] = ai[0];
+      ai[n+1] = ai[1];
     }
     int max = 0;
-    for (int l = 1; l < n - 1; l++){
-      int x = ai[l-1]+ai[l]+ai[l+1];
+    for (int l = 1; l < n + 1; l++){
+        int x = ai[l-1]+ai[l]+ai[l+1];
         if (x > max){
         max = x;
         }
@@ -32,4 +35,5 @@ if (n > 2 && n <= 1000){
 }
 else
     Console.WriteLine("ошибка ввода");
-    
+
+    //подсмотрел идею увеличения массива.
