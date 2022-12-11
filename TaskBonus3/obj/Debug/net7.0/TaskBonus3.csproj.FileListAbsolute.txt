@@ -1,0 +1,15 @@
+D:\MyWork\Practice\GR3612\Lang_Seminars\TaskBonus3\bin\Debug\net7.0\TaskBonus3.exe
+D:\MyWork\Practice\GR3612\Lang_Seminars\TaskBonus3\bin\Debug\net7.0\TaskBonus3.deps.json
+D:\MyWork\Practice\GR3612\Lang_Seminars\TaskBonus3\bin\Debug\net7.0\TaskBonus3.runtimeconfig.json
+D:\MyWork\Practice\GR3612\Lang_Seminars\TaskBonus3\bin\Debug\net7.0\TaskBonus3.dll
+D:\MyWork\Practice\GR3612\Lang_Seminars\TaskBonus3\bin\Debug\net7.0\TaskBonus3.pdb
+D:\MyWork\Practice\GR3612\Lang_Seminars\TaskBonus3\obj\Debug\net7.0\TaskBonus3.csproj.AssemblyReference.cache
+D:\MyWork\Practice\GR3612\Lang_Seminars\TaskBonus3\obj\Debug\net7.0\TaskBonus3.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\Practice\GR3612\Lang_Seminars\TaskBonus3\obj\Debug\net7.0\TaskBonus3.AssemblyInfoInputs.cache
+D:\MyWork\Practice\GR3612\Lang_Seminars\TaskBonus3\obj\Debug\net7.0\TaskBonus3.AssemblyInfo.cs
+D:\MyWork\Practice\GR3612\Lang_Seminars\TaskBonus3\obj\Debug\net7.0\TaskBonus3.csproj.CoreCompileInputs.cache
+D:\MyWork\Practice\GR3612\Lang_Seminars\TaskBonus3\obj\Debug\net7.0\TaskBonus3.dll
+D:\MyWork\Practice\GR3612\Lang_Seminars\TaskBonus3\obj\Debug\net7.0\refint\TaskBonus3.dll
+D:\MyWork\Practice\GR3612\Lang_Seminars\TaskBonus3\obj\Debug\net7.0\TaskBonus3.pdb
+D:\MyWork\Practice\GR3612\Lang_Seminars\TaskBonus3\obj\Debug\net7.0\TaskBonus3.genruntimeconfig.cache
+D:\MyWork\Practice\GR3612\Lang_Seminars\TaskBonus3\obj\Debug\net7.0\ref\TaskBonus3.dll
