@@ -25,4 +25,4 @@ else
 //     while (n > 1000)
 //         n /= 10;
 //     Console.WriteLine(n % 10);
-// }
+// }/
