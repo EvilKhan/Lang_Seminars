@@ -8,7 +8,7 @@ int[] n = Console.ReadLine().Split(" ").Select(x => int.Parse(x)).ToArray();
 int count = 0;
 for (int i = 0; i < n.Length; i++)
 {
-  if (n[i] >= 0)
+  if (n[i] > 0)
   {
     count++;
   }
