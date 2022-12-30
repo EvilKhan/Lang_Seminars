@@ -49,7 +49,7 @@ void RealeaseMatrix(int[,] matrix)
     Console.Write($"{minSumStr + 1}`я строка");
 }
 Console.Clear();
-int[,] matrix = new int[4,4];
+int[,] matrix = new int[4,5];
 inputMatrix(matrix);
 PrintMatrix(matrix);
 Console.WriteLine();
