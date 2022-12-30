@@ -13,18 +13,20 @@ void InputMatrix(int[,] matrix)
   }
 }
 Console.Clear();
-int[,] FirstMatrix = new int[3, 3];
+Console.Write("Введите размер матрицы: ");
+int[] size = Console.ReadLine().Split(" ").Select(x => int.Parse(x)).ToArray(); 
+int[,] FirstMatrix = new int[size[0], size[1]];
 InputMatrix(FirstMatrix);
 Console.WriteLine();
 
-int[,] SecondMatrix = new int [3, 3];
+int[,] SecondMatrix = new int [size[0], size[1]];
 InputMatrix(SecondMatrix);
 Console.WriteLine();
 
-int[,] ResultMatrix = new int [3, 3];
-for (int i = 0; i < 3; i++)
+int[,] ResultMatrix = new int [size[0], size[1]];
+for (int i = 0; i < ResultMatrix.GetLength(0); i++)
 {
-  for (int j = 0; j < 3; j++)
+  for (int j = 0; j < ResultMatrix.GetLength(1); j++)
   {
     ResultMatrix[i, j] = FirstMatrix[i, j] * SecondMatrix[i, j];
     Console.Write(ResultMatrix[i, j] + " ");
