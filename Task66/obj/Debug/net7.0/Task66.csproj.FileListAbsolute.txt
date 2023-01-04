@@ -1,0 +1,15 @@
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task66\bin\Debug\net7.0\Task66.exe
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task66\bin\Debug\net7.0\Task66.deps.json
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task66\bin\Debug\net7.0\Task66.runtimeconfig.json
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task66\bin\Debug\net7.0\Task66.dll
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task66\bin\Debug\net7.0\Task66.pdb
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task66\obj\Debug\net7.0\Task66.csproj.AssemblyReference.cache
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task66\obj\Debug\net7.0\Task66.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task66\obj\Debug\net7.0\Task66.AssemblyInfoInputs.cache
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task66\obj\Debug\net7.0\Task66.AssemblyInfo.cs
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task66\obj\Debug\net7.0\Task66.csproj.CoreCompileInputs.cache
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task66\obj\Debug\net7.0\Task66.dll
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task66\obj\Debug\net7.0\refint\Task66.dll
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task66\obj\Debug\net7.0\Task66.pdb
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task66\obj\Debug\net7.0\Task66.genruntimeconfig.cache
+D:\MyWork\Practice\GR3612\Lang_Seminars\Task66\obj\Debug\net7.0\ref\Task66.dll
